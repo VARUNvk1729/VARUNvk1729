@@ -1,5 +1,5 @@
 [![MasterHead](https://iili.io/HNcoB07.png)
-<h1 align="center">Hi 👋, I'm Varun</h1>
+<h1 align="center">Hi 👋, I'm Varun Kakateeya</h1>
 <h3 align="center">A passionate Competitive Programmer , Open Source Enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunvk1729&label=Profile%20views&color=0e75b6&style=flat" alt="varunvk1729" /> </p>
 
